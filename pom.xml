@@ -21,9 +21,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.yahoo.labs.samoa</groupId>
+            <groupId>org.apache.samoa</groupId>
             <artifactId>samoa-api</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.4.0-incubating-SNAPSHOT</version>
        </dependency>
     </dependencies>
 
